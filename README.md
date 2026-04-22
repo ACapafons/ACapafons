@@ -18,4 +18,4 @@ Me enfoco en entender cómo funcionan las cosas por debajo, desde la red hasta e
 No pierdo el tiempo memorizando sintaxis que puedo consultar en la documentación. Mi prioridad es la lógica y la resolución de problemas. Mis repositorios son el reflejo de mi aprendizaje y mis experimentos.
 
 ---
-📫 **Contacto**: [https://www.linkedin.com/in/agustinjcapafons/]
+📫 **Contacto**: https://www.linkedin.com/in/agustinjcapafons/
