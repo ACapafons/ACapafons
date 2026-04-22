@@ -1,16 +1,21 @@
-## Hi there 👋
+## ¡Hola👋, Soy Agustín pero me dicen Tito!
 
-<!--
-**ACapafons/ACapafons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** **Estudiante de Ingeniería Informática**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me enfoco en entender cómo funcionan las cosas por debajo, desde la red hasta el código. No me interesa coleccionar certificados, sino construir herramientas que solucionen problemas reales.
+
+### 🛠️ En mi radar
+- **C**: La base de todo en la universidad.
+- **Python & HTML**: Automatización y utilidades web sencillas.
+- **Sistemas**: Gestión y monitorización de redes y servidores (base de ASIR).
+
+### 🏎️ Intereses y Proyectos
+- **Motorsport**: Análisis de datos y herramientas aplicadas al mundo del motor.
+- **Utilidad**: Creación de pequeñas aplicaciones web que simplifiquen el día a día.
+
+### 🎯 Mi enfoque
+No pierdo el tiempo memorizando sintaxis que puedo consultar en la documentación. Mi prioridad es la lógica y la resolución de problemas. Mis repositorios son el reflejo de mi aprendizaje y mis experimentos.
+
+---
+📫 **Contacto**: [https://www.linkedin.com/in/agustinjcapafons/]
